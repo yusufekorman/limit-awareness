@@ -1,1 +1,1 @@
-{ "name": "limit-awareness", "version": "0.1.0", "description": "Tells the agent how much context window and rate limit is left, on every prompt." }
+{ "name": "limit-awareness", "version": "0.1.1", "description": "Tells the agent how much context window and rate limit is left, on every prompt." }
